@@ -1,6 +1,13 @@
 # C-Interpreter
 C console for beginners and curious people. Available on Unix systems.
 
+        ____           ___       _                           _            
+       / ___|         |_ _|_ __ | |_ ___ _ __ _ __  _ __ ___| |_ ___ _ __ 
+      | |      _____   | || '_ \| __/ _ \ '__| '_ \| '__/ _ \ __/ _ \ '__|
+      | |___  |_____|  | || | | | ||  __/ |  | |_) | | |  __/ ||  __/ |   
+       \____|         |___|_| |_|\__\___|_|  | .__/|_|  \___|\__\___|_|   
+                                             |_|                          
+
 This console permit to interpret, compile and execute C instructions very fast, to test or to discover C functions outputs.
 
   To run this console open this git repository on your Unix terminal, be sure you had installed clang program on your terminal,
